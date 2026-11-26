@@ -1,4 +1,4 @@
-# <Az app neve>: <az ötlet egy mondatban>
+# <Flash Check (nem végleges név) >: <Budapest elektronikus zenei színtere egy weblapon/alkalmazásban>
 
 Hallgató: <Jugenheimer Milán>  ·  Platform: <iOS | Android | reszponzív web>
 Figma tervfájl: <link, "anyone with the link can view">
@@ -6,7 +6,7 @@ FigJam kutatási tábla: <link, "anyone with the link can view">
 Prototípus: <link, a 6. lépésből>
 
 ## Az ötlet egy mondatban
-<App> segít <kiknek>, hogy <mit tegyenek>, amikor <helyzet>.
+A Flash Check segíti a fiatalokat, hogy megtalálják a számukra legérdekesebb esti eventeket, és jegyet váltsanak. Segít a feltörekvő társulatoknak és zenészeknek.
 
 ## Állapot
 - [ ] 1. lépés · Ötlet és referenciák (határidő: 2. alkalom)
