@@ -4,7 +4,22 @@ IDEA
 A Flash Check segíti a fiatalokat, hogy megtalálják a számukra legérdekesebb esti eventeket, és jegyet váltsanak. Segít a feltörekvő társulatoknak és zenészeknek.
 
 
-ez túl bonyolult első felület csak annyit csinál hogy én díjmentesen adhassak el jegyeket a saját eseményeimre.
+kinek szól:
+
+egyszerű fiataloknak akik valamilyen eseményt szeretnének létrehozni és az eseményre jegyeket értékesíteni.
+
+A baráti körömben több ilyen ember is él.
+
+
+probléma: Ha egy eseményt csinálsz akkor az online jegyértékesítés egy rémálom. lent ezt részletesen kifejtem.
+
+platform:
+
+Weboldal
+MIÉRT?
+A jegyvásárlás a szükséges rossz ezen kell gyorsan túl lenni senki nem akar letölteni még egy appot.
+
+(ez túl bonyolult első felület csak annyit csinál hogy én díjmentesen adhassak el jegyeket a saját eseményeimre.)
 
 
 Díjmentesen bárki feltölthet egy eventet arra a felhasználó jegyet válthat (itt még lehetnek buktatók lehet csak jegyet foglalhat). A felület egy külön oldalon mutatja az összes feltöltött eventet.
