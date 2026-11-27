@@ -4,16 +4,16 @@ IDEA
 ## A Flash Check segíti a fiatalokat, hogy megtalálják a számukra legérdekesebb esti eventeket, és jegyet váltsanak. Segít a feltörekvő társulatoknak és zenészeknek.
 
 
-kinek szól:
+####kinek szól:
 
 egyszerű fiataloknak akik valamilyen eseményt szeretnének létrehozni és az eseményre jegyeket értékesíteni.
 
 A baráti körömben több ilyen ember is él.
 
 
-probléma: Ha egy eseményt csinálsz akkor az online jegyértékesítés egy rémálom. lent ezt részletesen kifejtem.
+####probléma: Ha egy eseményt csinálsz akkor az online jegyértékesítés egy rémálom. lent ezt részletesen kifejtem.
 
-platform:
+####platform:
 
 Weboldal
 MIÉRT?
@@ -26,7 +26,7 @@ Díjmentesen bárki feltölthet egy eventet arra a felhasználó jegyet válthat
 
 Regisztrálni kell de csak az event szervezőknek. Nincsenek díjak csak ha vége az eventnek akkor egy pop up egy teljesen fakultatív hozzájárulási díjat kér.
 
-Miért kell ez van már ezer hasonló?
+####Miért kell ez van már ezer hasonló?
 
 IGEN DE:
 
@@ -37,7 +37,7 @@ Az undergroundabb társulatok nem igazán vannak képviselve itt még a revolut 
 A nem annyira profi felületek (ahol amúgy a kezelési költség nem alacsonyabb csak nem kérnek céges regisztrációt) nem tudják a fizetés részét jól megoldani. regisztrálni kell a vásárláshoz vagy appot letölteni. A jegy validálásához is le kell tölteni az appot. Sokszor a vásárló nem kap jó visszajelzést, vagy csak nem működik a fizetés.
 
 
-MIT CSINÁLUNK MÁSHOGY:
+####MIT CSINÁLUNK MÁSHOGY:
 
 nincs minden jegyen plusz költség. 
 fakultatív a hozzájárulás.
