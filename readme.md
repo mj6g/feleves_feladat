@@ -2,7 +2,7 @@
 
 Hallgató: Jugenheimer Milán  ·  Platform:reszponzív web
 
-Figma tervfájl: [<link>](https://www.figma.com/board/ETFopqiisPsOhklZHlbtLS/Flash_Check?t=TMwkV07GKbUndsjb-6)
+Figma tervfájl: https://www.figma.com/board/ETFopqiisPsOhklZHlbtLS/Flash_Check?node-id=1-168&t=GHeH7AnN4AN99QFh-1
 
 FigJam kutatási tábla: <link>
 
