@@ -1,10 +1,10 @@
-# Flash Check (nem végleges név) >: <Budapest elektronikus zenei színtere egy weblapon/alkalmazásban
+# Flash Check (nem végleges név): Budapest elektronikus zenei színtere egy weblapon/alkalmazásban
 
-Hallgató: <Jugenheimer Milán>  ·  Platform:reszponzív web
+Hallgató: Jugenheimer Milán  ·  Platform:reszponzív web
 
-Figma tervfájl: <link, "anyone with the link can view">
+Figma tervfájl: <link>
 
-FigJam kutatási tábla: <link, "anyone with the link can view">
+FigJam kutatási tábla: <link>
 
 Prototípus: <link, a 6. lépésből>
 
@@ -20,4 +20,4 @@ Prototípus: <link, a 6. lépésből>
 - [ ] 6. lépés · Prototípus, teszt, esettanulmány (határidő: záró bemutató)
 
 ## AI-használat (a teljes projekt)
-<eszköz · mire · mit változtattam rajta>, vagy: nem használtam
+eszköz · mire · mit változtattam rajta, vagy: nem használtam
