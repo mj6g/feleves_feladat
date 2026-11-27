@@ -1,12 +1,15 @@
-# <Flash Check (nem végleges név) >: <Budapest elektronikus zenei színtere egy weblapon/alkalmazásban>
+# Flash Check (nem végleges név) >: <Budapest elektronikus zenei színtere egy weblapon/alkalmazásban
 
-Hallgató: <Jugenheimer Milán>  ·  Platform: <iOS | Android | reszponzív web>
+Hallgató: <Jugenheimer Milán>  ·  Platform:reszponzív web
+
 Figma tervfájl: <link, "anyone with the link can view">
+
 FigJam kutatási tábla: <link, "anyone with the link can view">
+
 Prototípus: <link, a 6. lépésből>
 
 ## Az ötlet egy mondatban
-A Flash Check segíti a fiatalokat, hogy megtalálják a számukra legérdekesebb esti eventeket, és jegyet váltsanak. Segít a feltörekvő társulatoknak és zenészeknek.
+###### A Flash Check segíti a fiatalokat, hogy megtalálják a számukra legérdekesebb esti eventeket, és jegyet váltsanak. Segít a feltörekvő társulatoknak és zenészeknek.
 
 ## Állapot
 - [x] 1. lépés · Ötlet és referenciák (határidő: 2. alkalom)
