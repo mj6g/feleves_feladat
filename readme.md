@@ -20,4 +20,4 @@ Prototípus: <link, a 6. lépésből>
 - [ ] 6. lépés · Prototípus, teszt, esettanulmány (határidő: záró bemutató)
 
 ## AI-használat (a teljes projekt)
-eszköz · mire · mit változtattam rajta, vagy: nem használtam
+nem használtam egyelöre
