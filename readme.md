@@ -9,7 +9,7 @@ Prototípus: <link, a 6. lépésből>
 A Flash Check segíti a fiatalokat, hogy megtalálják a számukra legérdekesebb esti eventeket, és jegyet váltsanak. Segít a feltörekvő társulatoknak és zenészeknek.
 
 ## Állapot
-- [ ] 1. lépés · Ötlet és referenciák (határidő: 2. alkalom)
+- [x] 1. lépés · Ötlet és referenciák (határidő: 2. alkalom)
 - [ ] 2. lépés · Benchmark és interjúk (határidő: 3. alkalom)
 - [ ] 3. lépés · Insightok, perszóna, journey map, probléma (határidő: 4. alkalom)
 - [ ] 4. lépés · Koncepció, oldaltérkép, user flow, drótvázak (határidő: 5. alkalom)
